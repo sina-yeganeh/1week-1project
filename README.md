@@ -5,9 +5,7 @@ I try my best for making a small project every week. These projects aren't in sp
 <!-- **Projects Menu**
 - [Numicide]() -->
 
-- [WEEK 1 - Numicide]()
-
-  *Very simple game made with **Kaplay** - library for making web games.*
+- [WEEK 1 - Numicide]() - *Very simple game made with **Kaplay** - library for making web games.*
 
   ![Numicde Screenshot](./numicide/screenshots/numicide.png)
 
